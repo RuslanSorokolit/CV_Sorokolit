@@ -7,11 +7,11 @@
 **Head of Sales | Commercial Director | Country manager| 10+ years of experience**
 
 
-**Email:** [ruslansorokolit90@gmail.com](mailto:ruslansorokolit90@gmail.com)\n
-**Telegram/WA:** +380667194150\n
-**Location:** Bucharest, Romania  \n
-**LinkedIn:** [Ruslan](https://www.linkedin.com/in/ruslan-sorokolit-473970142//)\n
-**Date of Birth:** 05.07.1990\n
+**Email:** [ruslansorokolit90@gmail.com](mailto:ruslansorokolit90@gmail.com)
+**Telegram/WA:** +380667194150
+**Location:** Bucharest, Romania  
+**LinkedIn:** [Ruslan](https://www.linkedin.com/in/ruslan-sorokolit-473970142//)
+**Date of Birth:** 05.07.1990
 **Nationality:** Ukraine
 
 ## Professional Summary
@@ -56,6 +56,7 @@ I was invited as a crisis manager on a temporary contract. The task before me wa
 
 ### Country manager / Head of sale), WhoCpa.Asia  
 _09/2019 - 05/2023, Indonesia_
+
 **Tasks:**
 - Strategic and operational management of a network of physical and remote sales departments: 5 sales departments in Indonesia, Myanmar, Thailand, the Philippines, and Cambodia;
 - Direct reporting to the business owner. Under my operational leadership, a team of 300 employees;
