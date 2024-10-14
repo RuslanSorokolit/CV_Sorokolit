@@ -7,11 +7,11 @@
 **Head of Sales | Commercial Director | Country manager| 10+ years of experience**
 
 
-**Email:** [ruslansorokolit90@gmail.com](mailto:ruslansorokolit90@gmail.com)  
-**Telegram/WA:** +380667194150
-**Location:** Bucharest, Romania  
-**LinkedIn:** [Ruslan](https://www.linkedin.com/in/ruslan-sorokolit-473970142//)
-**Date of Birth:** 05.07.1990
+**Email:** [ruslansorokolit90@gmail.com](mailto:ruslansorokolit90@gmail.com)\n
+**Telegram/WA:** +380667194150\n
+**Location:** Bucharest, Romania  \n
+**LinkedIn:** [Ruslan](https://www.linkedin.com/in/ruslan-sorokolit-473970142//)\n
+**Date of Birth:** 05.07.1990\n
 **Nationality:** Ukraine
 
 ## Professional Summary
@@ -67,7 +67,7 @@ _09/2019 - 05/2023, Indonesia_
 - Team management (supervisors of call centers and sales department managers) - formation, adaptation, and training of the international team; 
 - Individual work with call center managers; Close collaboration with the technical department (CRM adjustments, telephony, and more).
 
-**Results for each GEO
+**Results for each GEO**
 
 **Indonesia (100+ employees):**
 - The Call Center was established from scratch and scaled up to 100 employees.
