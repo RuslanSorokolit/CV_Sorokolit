@@ -27,6 +27,21 @@ I have successfully managed or launched and scaled sales departments to over 100
 
 ## Work History
 
+### Commercial Director / Head of Sales, Project team  
+_09/2023 - current time, Romania_
+
+**The team assigns project managers to existing businesses or for launching new businesses in the sales field.**
+
+**Responsibilities:**
+- Launching a sales department from scratch
+- Improving performance in existing sales departments
+
+**It was done:**
+- Launched a beauty and health project from scratch in Romania
+- Supported and improved performance on a project in Georgia
+- Launched a gambling project in Bangladesh
+
+
 ### Commercial Director / Head of Sales, JayJay (Project job)  
 _05/2023 - 08/2023, Indonesia_
 
