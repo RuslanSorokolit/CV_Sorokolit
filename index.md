@@ -119,11 +119,11 @@ Establishment and transformation of the Call Center into a profitable operation 
 
 
 ## Skills
-- **Ability to conduct successful negotiations with partners (clients, suppliers, courier services, etc.) and knowing how to build a dialogue to achieve the most favorable conditions.
-- **Expertise in sales at all levels, from scripting to strategic management.
-- **Skillful in conducting quick and effective audits to identify growth opportunities (thorough understanding of business processes to identify areas of revenue loss and potential improvements).
-- **Understanding the correct methods of motivating sales personnel to ensure the company meets its targets and employees are satisfied with their compensation.
-- **Proficient in launching projects from scratch and driving them towards profitability.
+- Ability to conduct successful negotiations with partners (clients, suppliers, courier services, etc.) and knowing how to build a dialogue to achieve the most favorable conditions.
+- Expertise in sales at all levels, from scripting to strategic management.
+- Skillful in conducting quick and effective audits to identify growth opportunities (thorough understanding of business processes to identify areas of revenue loss and potential improvements).
+- Understanding the correct methods of motivating sales personnel to ensure the company meets its targets and employees are satisfied with their compensation.
+- Proficient in launching projects from scratch and driving them towards profitability.
 
 
 ## Education
