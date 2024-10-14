@@ -17,6 +17,7 @@
 ## Professional Summary
 
 I am a Head of Sales with 10 years of experience. I specialize in launching from scratch and managing sales departments for CPA networks.
+
 **Industries I have worked in include:** Nutra, Gambling, EdTech, and white-label goods.
 
 **Achievements:**
