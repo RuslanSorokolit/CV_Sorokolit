@@ -26,8 +26,9 @@ I have successfully managed or launched and scaled sales departments to over 100
 
 ## Work History
 
-### Commercial Director / Head of Sales, JayJay, Indonesia (Project job)  
+### Commercial Director / Head of Sales, JayJay (Project job)  
 _05/2023 - 08/2023, Indonesia_
+
 I was invited as a crisis manager on a temporary contract. The task before me was to increase the department's profit while reducing the budget.
 
 **Responsibilities:**
