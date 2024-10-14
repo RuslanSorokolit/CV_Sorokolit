@@ -3,88 +3,135 @@
 
 <div id="cv-container" />
 
-# Serhii Petinov
-**Senior Front-end Engineer | React & JavaScript Expert | 5+ years of experience**
+# Ruslan Sorokolit
+**Head of Sales | Commercial Director | Country manager| 10+ years of experience**
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
-**Email:** [onlyjs@protonmail.com](mailto:onlyjs@protonmail.com)  
-**Phone:** +380996683145  
+**Email:** [ruslansorokolit90@gmail.com](mailto:ruslansorokolit90@gmail.com)  
+**Telegram/WA:** +380667194150
 **Location:** Bucharest, Romania  
-**LinkedIn:** [Serhii](https://www.linkedin.com/in/serhii-front-end-engineer/)
+**LinkedIn:** [Ruslan](https://www.linkedin.com/in/ruslan-sorokolit-473970142//)
+**Date of Birth:** 05.07.1990
+**Nationality:** Ukraine
 
 ## Professional Summary
 
-I am a Front-end Developer with over 5 years of experience building high-performance single-page applications. I have a passion for creating robust and user-friendly software solutions, with a keen eye for detail and efficiency.
-
-**Key Skills and Technologies:**
-Proficient in JavaScript, TypeScript, React and Redux.
-Experienced in debugging complex issues and optimizing front-end performance.
-Strong focus on teamwork, effective communication, and agile methodologies.
+I am a Head of Sales with 10 years of experience. I specialize in launching from scratch and managing sales departments for CPA networks.
+**Industries I have worked in include:** Nutra, Gambling, EdTech, and white-label goods.
 
 **Achievements:**
-Successfully led a project team to enhance product functionality.
-Improved performance of a major application feature by reducing load time.
-Actively contributed to a company-wide refactoring initiative that standardized front-end code quality.
+I have successfully managed or launched and scaled sales departments to over 100+ employees in various locations around the world, including Ukraine, Kazakhstan, Cambodia, Myanmar, Indonesia, Thailand, the Philippines, Bangladesh, Georgia, and Romania.
 
-**Career Goals:**
- I am committed to continuous learning, expanding my knowledge in modern front-end frameworks, and collaborating within diverse teams to deliver impactful user experiences. My goal is to further grow as a developer, take on technical leadership roles, and contribute to innovative projects.
 
 
 ## Work History
 
-### Decision Maker / Front-end Engineer / React Developer, Altamira  
-_08/2023 - Current, Ukraine_
-- **Technologies:** Next.js, Redux Toolkit, Sass, TypeScript, Tailwind, Ag-Grid, GraphQL, Apollo Client, Ag-Charts, Ramda, Nginx, MySQL
-- Design and implement user-friendly interfaces for CRM systems.
-- Collaborate closely with a cross-functional team to design, develop, and refine user-centric solutions.
-- Develop responsive web pages and integrate real-time data visualization tools.
-- Contribute to the entire application lifecycle, focusing on coding, debugging, and collaboration.
+### Commercial Director / Head of Sales, JayJay, Indonesia (Project job)  
+_05/2023 - 08/2023, Indonesia_
+I was invited as a crisis manager on a temporary contract. The task before me was to increase the department's profit while reducing the budget.
 
-### Front-end Engineer / React Developer, Tacans Labs  
-_03/2023 - 08/2023, Kyiv City, Ukraine_
-- **Technologies:** React.js, MobX, Sass, TypeScript, Chart.js
-- Worked on developing functionalities for crypto stock trading platforms.
-- Optimized website performance and loading speeds.
-- Developed and maintained the front-end architecture of the website using React and Mobx.
-- Collaborated with other developers to ensure the application is scalable and performant.
+**Responsibilities:
+- Audit of the sales department's performance.
+- Identification of growth areas in the department and development of an optimization plan.
+- Implementation of the plan, monitoring, and evaluation of results.
+- Department management throughout the contract.
 
-### Front-end Engineer, IT NerdySoft  
-_03/2022 - 02/2023, Lviv, Ukraine_
-- **Technologies:** Next.js, React Query, Ant Design, Sass, TypeScript
-- Assured cross-browser compatibility and adhered to web accessibility standards.
-- Troubleshot and debugged web applications.
-- Focused on developing fintech products and SPA, enhancing UI/UX design.
+**It was found that:
+- Overestimated advertising budget, while the number of sales was insufficient to ensure stable profitability.
+- Low level of employee discipline.
+- Ineffective sales scripts.
+- The calling scheme and timing did not allow for proper lead processing (the time from the first call to the final status was too long, and the department's working hours did not facilitate timely lead handling).
+- Low level of sales skills among employees.
 
-### Front-end Engineer, Exsportia LTD  
-_10/2019 - 02/2022, Lviv, Ukraine_
-- **Technologies:** React.js, Redux Saga, Node.js, Firebase, AWS Amplify, Styled-components, RESTful APIs
-- Wrote clean, maintainable, and scalable code following industry best practices.
-- Managed client-side development, including CI/CD processes and deployment.
+**It was done:
+- Established collaboration with university representatives, youth organizations, and student associations. This increased the number of potential clients (students).
+- Implemented discipline in the department's work and set KPIs.
+- Conducted training for employees in several stages.
+- Rewritten sales scripts.
+- Changed call timings and reduced lead processing time.
+- Reduced the number of employees by 15%, resulting in reduced labor costs without compromising the number of sales (sales per manager increased).
+**Result:
+- The income was increased by 10%, while the marketing budget was reduced by approximately 30%. This goal was achieved within the scope of the contract.
+
+### Country manager / Head of sale), WhoCpa.Asia  
+_09/2019 - 05/2023, Indonesia_
+**Tasks:
+- Strategic and operational management of a network of physical and remote sales departments: 5 sales departments in Indonesia, Myanmar, Thailand, the Philippines, and Cambodia;
+- Direct reporting to the business owner. Under my operational leadership, a team of 300 employees;
+- Organization of project launches in countries of presence from the very beginning;
+- Building and refining the management system (structure, goal setting, budgeting, work methodologies, regulations, team formation and development, KPI calculation, reporting);
+- Planning and monitoring key performance indicators (approval rates of groups and webmasters, average order value, purchase rates by country, penetration by GEO); 
+- Participation in strategic planning for company development; Competitive market analysis, analysis of company products, and traffic analysis; 
+- Representing the company's interests in local government authorities;
+- Team management (supervisors of call centers and sales department managers) - formation, adaptation, and training of the international team; 
+- Individual work with call center managers; Close collaboration with the technical department (CRM adjustments, telephony, and more).
+
+**Results for each GEO
+
+**Indonesia (100+ employees):
+- The Call Center was established from scratch and scaled up to 100 employees.
+- The main issue in the Indonesia GEO, low call reachability, was resolved through careful call scheme planning, call optimization, and scheduling operators' shifts during the most effective hours for reaching clients.
+- Sub-departments such as purchases, call cancellations, non-redeemed orders, and repeat payments were opened and turned into profitable units, allowing generating revenue without advertising expenses using existing databases.
+- Contracts were signed for the most favorable telephone tariffs.
+- The Call Center achieved stable profitability after just the second month of operation.
+- High sales performance was achieved for the GEO and niche, with approval rates reaching up to 45%, average order value up to $75, and redemption rates up to 80%.
+- In 2022, the Call Center was successfully transitioned to fully remote work in less than a month (from the second month of remote operation, sales performance reached the level of the offline Call Center).
+- By transitioning the Call Center to remote work, office rental and workplace organization expenses were reduced.
+
+**Myanmar (45 employees):
+- The old office was closed, and a new one with lower rental costs but better location (more attractive to potential employees) was opened.
+- A sales department was created from scratch (the previous one was disbanded due to inefficiency).
+- Processes for the effective training of employees were established.
+- Daily analytics of sales performance and reporting were implemented from scratch.
+- The remuneration structure of the management team was optimized (the salary level was unreasonably higher than the market rate).
+- Operator motivation was revised (the focus shifted from fixed salaries to sales performance).
+- More advantageous suppliers for the products were found.
+- Courier services with the highest redemption rates were identified.
+- The Call Center's metrics surpassed competitors (approval rates increased from 10% to 40%, redemption rates from 20% to 70%).
+- Within 3 months, the previously unprofitable Call Center became a stable profit-generating unit."
+
+**Cambodia ( 30 employees):
+Introduced the buyback process from scratch.
+Based on the analysis of sales efficiency by days, the scheduling of operator shifts was completely reformatted.
+Increased employee efficiency (sales scripts were completely rewritten, training and staff reassignments were conducted).
+Achieved growth in key Call Center metrics: approval rates increased by 5%, redemption rates by 9%."
+
+
+### Head of sales / Head of project, XRICH CPA  
+_07/2015 - 08/2019, Ukraine_
+
+Establishment and transformation of the Call Center into a profitable operation from scratch. The Call Center operated with verticals in goods and nutra. GEOs: Ukraine, Russia, Kazakhstan.
+
+**Tasks:
+- Recruiting and training of managers and operators; 
+- Conducting cold outreach to generate leads for the Call Center;
+- Organizing technical infrastructure for Call Center operations (CRM, telephony); 
+- Developing a motivational system for employees; Establishing processes for monitoring Call Center metrics and reporting; 
+- Creating effective sales scripts; Promptly addressing deviations from performance targets, analyzing root causes, and implementing corrective actions.
+
+**Results:
+- Recruited and trained up to 45 staff members;
+- Established partnerships with approximately 60 clients, with 9 becoming regular customers;
+- Achieved the target approval rate of 45% (without considering landing page price or portion price).
+
 
 
 ## Skills
-- **Programming Languages & Frameworks:** JavaScript, TypeScript, Node.js, Next.js
-- **Libraries & Tools:** React.js, Redux/Saga/Toolkit, Ant Design, Chart.js, AG Grid, Tailwind, Sass, Docker
-- **Technologies:** AWS Amplify, MySQL, Apache, Nginx
-- **Design & UI:** Figma, Zepelin
-- **Management:** Jira, Monday, Trello, Bob, BambooHR
-- **Code:** GitHub, Bitbucket, GitLab, VS Code
-- **Other:** Linux, Network
+- **Ability to conduct successful negotiations with partners (clients, suppliers, courier services, etc.) and knowing how to build a dialogue to achieve the most favorable conditions.
+- **Expertise in sales at all levels, from scripting to strategic management.
+- **Skillful in conducting quick and effective audits to identify growth opportunities (thorough understanding of business processes to identify areas of revenue loss and potential improvements).
+- **Understanding the correct methods of motivating sales personnel to ensure the company meets its targets and employees are satisfied with their compensation.
+- **Proficient in launching projects from scratch and driving them towards profitability.
+
 
 ## Education
-- **Academy STEP, Lviv**  
-  _03/2019 - 08/2019_  
-  C++ Development
 
-- **Yuriy Kondratyuk Poltava Polytechnic National University**  
-  _01/2008 - 12/2012_  
-  Engineer Designer of Heat, Gas Supply, Ventilation
-
+- **Sumy national agrarian university**  
+  _09/2009 - 06/2013_  
+Food technology engineer and restaurant business
 ## Certifications
 - **English level:** Upper-intermediate
 
 
-<div id="sfcpdmf836fpjy64tbw8ks11kpd3dgkyx8l"></div>
-<script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=pdmf836fpjy64tbw8ks11kpd3dgkyx8l&down=async" async></script>
-<noscript><a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=pdmf836fpjy64tbw8ks11kpd3dgkyx8l" border="0" title="website counter" alt="website counter"></a></noscript>
+<div id="sfcpbe8p7la7nefkj371n4q19ayat29y1pj"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=pbe8p7la7nefkj371n4q19ayat29y1pj&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="visitor counter script"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=pbe8p7la7nefkj371n4q19ayat29y1pj" border="0" title="visitor counter script" alt="visitor counter script"></a></noscript>
+
