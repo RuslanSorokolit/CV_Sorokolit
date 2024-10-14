@@ -30,32 +30,33 @@ I have successfully managed or launched and scaled sales departments to over 100
 _05/2023 - 08/2023, Indonesia_
 I was invited as a crisis manager on a temporary contract. The task before me was to increase the department's profit while reducing the budget.
 
-**Responsibilities:
+**Responsibilities:**
 - Audit of the sales department's performance.
 - Identification of growth areas in the department and development of an optimization plan.
 - Implementation of the plan, monitoring, and evaluation of results.
 - Department management throughout the contract.
 
-**It was found that:
+**It was found that:**
 - Overestimated advertising budget, while the number of sales was insufficient to ensure stable profitability.
 - Low level of employee discipline.
 - Ineffective sales scripts.
 - The calling scheme and timing did not allow for proper lead processing (the time from the first call to the final status was too long, and the department's working hours did not facilitate timely lead handling).
 - Low level of sales skills among employees.
 
-**It was done:
+**It was done:**
 - Established collaboration with university representatives, youth organizations, and student associations. This increased the number of potential clients (students).
 - Implemented discipline in the department's work and set KPIs.
 - Conducted training for employees in several stages.
 - Rewritten sales scripts.
 - Changed call timings and reduced lead processing time.
 - Reduced the number of employees by 15%, resulting in reduced labor costs without compromising the number of sales (sales per manager increased).
-**Result:
+
+**Result:**
 - The income was increased by 10%, while the marketing budget was reduced by approximately 30%. This goal was achieved within the scope of the contract.
 
 ### Country manager / Head of sale), WhoCpa.Asia  
 _09/2019 - 05/2023, Indonesia_
-**Tasks:
+**Tasks:**
 - Strategic and operational management of a network of physical and remote sales departments: 5 sales departments in Indonesia, Myanmar, Thailand, the Philippines, and Cambodia;
 - Direct reporting to the business owner. Under my operational leadership, a team of 300 employees;
 - Organization of project launches in countries of presence from the very beginning;
@@ -68,7 +69,7 @@ _09/2019 - 05/2023, Indonesia_
 
 **Results for each GEO
 
-**Indonesia (100+ employees):
+**Indonesia (100+ employees):**
 - The Call Center was established from scratch and scaled up to 100 employees.
 - The main issue in the Indonesia GEO, low call reachability, was resolved through careful call scheme planning, call optimization, and scheduling operators' shifts during the most effective hours for reaching clients.
 - Sub-departments such as purchases, call cancellations, non-redeemed orders, and repeat payments were opened and turned into profitable units, allowing generating revenue without advertising expenses using existing databases.
@@ -78,7 +79,7 @@ _09/2019 - 05/2023, Indonesia_
 - In 2022, the Call Center was successfully transitioned to fully remote work in less than a month (from the second month of remote operation, sales performance reached the level of the offline Call Center).
 - By transitioning the Call Center to remote work, office rental and workplace organization expenses were reduced.
 
-**Myanmar (45 employees):
+**Myanmar (45 employees):**
 - The old office was closed, and a new one with lower rental costs but better location (more attractive to potential employees) was opened.
 - A sales department was created from scratch (the previous one was disbanded due to inefficiency).
 - Processes for the effective training of employees were established.
@@ -90,7 +91,7 @@ _09/2019 - 05/2023, Indonesia_
 - The Call Center's metrics surpassed competitors (approval rates increased from 10% to 40%, redemption rates from 20% to 70%).
 - Within 3 months, the previously unprofitable Call Center became a stable profit-generating unit."
 
-**Cambodia ( 30 employees):
+**Cambodia ( 30 employees):**
 Introduced the buyback process from scratch.
 Based on the analysis of sales efficiency by days, the scheduling of operator shifts was completely reformatted.
 Increased employee efficiency (sales scripts were completely rewritten, training and staff reassignments were conducted).
@@ -102,14 +103,14 @@ _07/2015 - 08/2019, Ukraine_
 
 Establishment and transformation of the Call Center into a profitable operation from scratch. The Call Center operated with verticals in goods and nutra. GEOs: Ukraine, Russia, Kazakhstan.
 
-**Tasks:
+**Tasks:**
 - Recruiting and training of managers and operators; 
 - Conducting cold outreach to generate leads for the Call Center;
 - Organizing technical infrastructure for Call Center operations (CRM, telephony); 
 - Developing a motivational system for employees; Establishing processes for monitoring Call Center metrics and reporting; 
 - Creating effective sales scripts; Promptly addressing deviations from performance targets, analyzing root causes, and implementing corrective actions.
 
-**Results:
+**Results:**
 - Recruited and trained up to 45 staff members;
 - Established partnerships with approximately 60 clients, with 9 becoming regular customers;
 - Achieved the target approval rate of 45% (without considering landing page price or portion price).
