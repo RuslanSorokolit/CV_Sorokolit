@@ -27,7 +27,7 @@ I have successfully managed or launched and scaled sales departments to over 100
 
 ## Work History
 
-### Commercial Director / Head of Sales, Project team  
+### Project manager / Head of Sales, Project team  
 _09/2023 - current time, Romania_
 
 **The team assigns project managers to existing businesses or for launching new businesses in the sales field.**
